@@ -1,0 +1,3 @@
+user.name = ArturoHdez
+user.email = hernandezarturo224@gmail.com
+URL https://github.com/hernandezArturo224/Libro.git
